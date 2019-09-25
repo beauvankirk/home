@@ -1,0 +1,21 @@
+[submodule "submodules/fresh"]
+	path = submodules/fresh
+	url = https://github.com/freshshell/fresh
+[submodule "submodules/metadot"]
+	path = submodules/metadot
+	url = https://git.fluxo.info/metadot
+[submodule "submodules/oh-my-zsh"]
+	path = submodules/oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh
+[submodule "submodules/marker"]
+	path = submodules/marker
+	url = https://github.com/pindexis/marker
+[submodule "submodules/nodesource"]
+	path = submodules/nodesource
+	url = https://github.com/nodesource/distributions
+[submodule "submodules/tldr"]
+	path = submodules/tldr
+	url = https://github.com/tldr-pages/tldr
+[submodule "submodules/z"]
+	path = submodules/z
+	url = https://github.com/rupa/z
